@@ -143,7 +143,6 @@ def render(d):
       </div>
       <div class="actions">
         <button class="btn primary" type="button" id="regenerateBtn">Перегенерировать данные</button>
-        <button class="btn" type="button" onclick="location.reload()">Обновить страницу</button>
         <div id="refreshStatus">Данные обновляются через VPS и GitHub/Cloudflare deploy.</div>
       </div>
     </div>
